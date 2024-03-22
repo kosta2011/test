@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static lessons.Lesson1.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-class Lesson1Test {
+public class Lesson1Test {
 
     @Test
     @DisplayName("testEvenNumber")
